@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9174a14c-c729-4188-9f10-1fb76e51304a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ml_modul/vector_norm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ml_modul/transpose_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml_modul/transpose_matrix.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -277,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552290544976</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="11.3.2019 23:49">
+      <created>1552297808827</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552297808827</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -289,7 +294,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34135976" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34135976" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -305,7 +310,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello" />
+    <MESSAGE value="11.3.2019 23:49" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.3.2019 23:49" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ml_modul/tich_chap.py">
