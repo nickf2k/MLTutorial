@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9174a14c-c729-4188-9f10-1fb76e51304a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ml_modul/add_sub_mult_div.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_modul/tensorflow_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +40,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ml_modul/add_sub_mult_div.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ml_modul/tensorflow_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -91,6 +100,7 @@
         <option value="$PROJECT_DIR$/ml_modul/transpose_matrix.py" />
         <option value="$PROJECT_DIR$/ml_modul/vector_norm.py" />
         <option value="$PROJECT_DIR$/ml_modul/add_sub_mult_div.py" />
+        <option value="$PROJECT_DIR$/ml_modul/tensorflow_test.py" />
       </list>
     </option>
   </component>
@@ -142,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.add_sub_mult_div">
+  <component name="RunManager" selected="Python.tensorflow_test">
     <configuration name="add_sub_mult_div" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearningTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tich_chap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tensorflow_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearningTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,7 +207,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ml_modul/tich_chap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ml_modul/tensorflow_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,19 +259,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.tich_chap" />
       <item itemvalue="Python.linear_regression" />
       <item itemvalue="Python.transpose_matrix" />
       <item itemvalue="Python.vector_norm" />
       <item itemvalue="Python.add_sub_mult_div" />
+      <item itemvalue="Python.tensorflow_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tensorflow_test" />
         <item itemvalue="Python.add_sub_mult_div" />
         <item itemvalue="Python.vector_norm" />
         <item itemvalue="Python.transpose_matrix" />
         <item itemvalue="Python.linear_regression" />
-        <item itemvalue="Python.tich_chap" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552297808827</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="14.3.2019 23:32">
+      <created>1552555932683</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552555932683</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -319,7 +336,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
     <MESSAGE value="11.3.2019 23:49" />
-    <option name="LAST_COMMIT_MESSAGE" value="11.3.2019 23:49" />
+    <MESSAGE value="14.3.2019 23:32" />
+    <option name="LAST_COMMIT_MESSAGE" value="14.3.2019 23:32" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ml_modul/numpy_matrix_vector.py">
@@ -333,6 +351,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml_modul/vector_norm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -353,17 +378,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ml_modul/vector_norm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ml_modul/add_sub_mult_div.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml_modul/tensorflow_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
