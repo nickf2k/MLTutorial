@@ -48,3 +48,14 @@ number_2D_random_int = np.random.randint(low=12, high=30, size=(3, 2),
 print("number_2D_random_int")
 print(number_2D_random_int)
 
+# cat mang
+mang = np.random.randint(3,20,(3,3))
+print(mang)
+print("mang sau khi cat:")
+print(mang[:,0:4])
+
+# broadcasting
+number_1D = np.array([1,2,3])
+print(number_1D+3)  #tat ca phan tu + 3
+number_2D = np.array([[4,2,1],[2,3,2]])
+print(number_2D+np.array([[2],[4]])) # = + [2,2,2],[4,4,4]

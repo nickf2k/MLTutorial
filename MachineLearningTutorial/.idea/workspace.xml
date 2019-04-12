@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/ml_modul/linear_regression.py" line="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9174a14c-c729-4188-9f10-1fb76e51304a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ml_modul/tensorflow_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml_modul/linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml_modul/linear_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml_modul/numpy_matrix_vector.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml_modul/numpy_matrix_vector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml_modul/tensorflow_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml_modul/tensorflow_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ml_modul/numpy_matrix_vector.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="1020">
+              <caret line="60" column="58" selection-start-line="60" selection-start-column="58" selection-end-line="60" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -49,11 +54,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ml_modul/tensorflow_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="323">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ml_modul/linear_regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="197">
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
               <folding>
                 <element signature="e#0#65#0" expanded="true" />
               </folding>
@@ -96,11 +104,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ml_modul/numpy_matrix_vector.py" />
         <option value="$PROJECT_DIR$/ml_modul/transpose_matrix.py" />
         <option value="$PROJECT_DIR$/ml_modul/vector_norm.py" />
         <option value="$PROJECT_DIR$/ml_modul/add_sub_mult_div.py" />
+        <option value="$PROJECT_DIR$/ml_modul/numpy_matrix_vector.py" />
         <option value="$PROJECT_DIR$/ml_modul/tensorflow_test.py" />
+        <option value="$PROJECT_DIR$/ml_modul/linear_regression.py" />
       </list>
     </option>
   </component>
@@ -137,6 +146,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
@@ -152,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tensorflow_test">
+  <component name="RunManager" selected="Python.linear_regression">
     <configuration name="add_sub_mult_div" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearningTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,6 +205,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="numpy_matrix_vector" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearningTutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ml_modul" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ml_modul/numpy_matrix_vector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tensorflow_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearningTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,27 +239,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ml_modul/tensorflow_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="transpose_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MachineLearningTutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ml_modul" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ml_modul/transpose_matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,19 +269,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.linear_regression" />
-      <item itemvalue="Python.transpose_matrix" />
-      <item itemvalue="Python.vector_norm" />
       <item itemvalue="Python.add_sub_mult_div" />
+      <item itemvalue="Python.numpy_matrix_vector" />
       <item itemvalue="Python.tensorflow_test" />
+      <item itemvalue="Python.vector_norm" />
+      <item itemvalue="Python.linear_regression" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.linear_regression" />
         <item itemvalue="Python.tensorflow_test" />
+        <item itemvalue="Python.numpy_matrix_vector" />
         <item itemvalue="Python.add_sub_mult_div" />
         <item itemvalue="Python.vector_norm" />
-        <item itemvalue="Python.transpose_matrix" />
-        <item itemvalue="Python.linear_regression" />
       </list>
     </recent_temporary>
   </component>
@@ -307,19 +317,26 @@
       <option name="project" value="LOCAL" />
       <updated>1552555932683</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="23:38 18/3/2019">
+      <created>1552927109545</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552927109545</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26040977" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17635404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34135976" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34087694" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -337,13 +354,14 @@
     <MESSAGE value="hello" />
     <MESSAGE value="11.3.2019 23:49" />
     <MESSAGE value="14.3.2019 23:32" />
-    <option name="LAST_COMMIT_MESSAGE" value="14.3.2019 23:32" />
+    <MESSAGE value="23:38 18/3/2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="23:38 18/3/2019" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ml_modul/numpy_matrix_vector.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="1020">
+          <caret line="60" column="58" selection-start-line="60" selection-start-column="58" selection-end-line="60" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -361,23 +379,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ml_modul/tich_chap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ml_modul/linear_regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ml_modul/add_sub_mult_div.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -387,8 +388,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ml_modul/tensorflow_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="323">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml_modul/tich_chap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml_modul/linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
