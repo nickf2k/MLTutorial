@@ -1,5 +1,6 @@
-import tensorflow as tf
 import numpy as np
+import tensorflow as tf
+
 # cong hang so
 x = tf.constant(4)
 y = tf.constant(5)
