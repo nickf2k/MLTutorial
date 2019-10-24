@@ -6,10 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9174a14c-c729-4188-9f10-1fb76e51304a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fundamental/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamental/file_open_r_w_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml_modul/matplotlib_show.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml_modul/matplotlib_show.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml_modul/matplotlib_show.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ml_modul/matplotlib_show.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="425">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="e#0#6#0" expanded="true" />
               </folding>
@@ -404,7 +401,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34087694" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34087694" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -576,8 +573,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ml_modul/matplotlib_show.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#0#6#0" expanded="true" />
           </folding>
